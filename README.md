@@ -1,16 +1,20 @@
-# test
+# Flutter Material App
 
-A new Flutter project.
+This is my first Flutter project, demonstrating basic Flutter concepts such as:
 
-## Getting Started
+- **Material Design Widgets**: Scaffold, AppBar, ElevatedButton, IconButton
+- **Navigation Between Routes**: Navigator.push and Navigator.pop
+- **Layout Management**: Row, Column, and Container widgets for alignment and spacing
 
-This project is a starting point for a Flutter application.
+## 🛠️ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **AppBar with a button** for interaction.
+- **Two pages** with route navigation.
+- **Responsive layout** using rows and columns to position containers.
+- **Interactive buttons** to switch between pages.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 How to Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/sevvalbilgi/flutter-material-app.git
